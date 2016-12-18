@@ -13,5 +13,7 @@ $ gem install haml
 
 # How to Use
 
+```
 Usage: ruby ./yaml_haml.rb _yamlfile_ _hamlfile_ > _output.html
+```
 
